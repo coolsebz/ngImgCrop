@@ -16,7 +16,7 @@
     "cropper"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/iblank/ngImgCrop",
+  "homepage": "https://github.com/coolsebz/ngImgCrop",
   "ignore": [
     "node_modules",
     "bower_components",
